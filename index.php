@@ -1,5 +1,5 @@
 <?php
 
-include_once("Discordad.html")
+include_once("discordad.html")
 
 ?>
