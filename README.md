@@ -1,3 +1,3 @@
-Want to show of your discord server use this git clone thes repository
+Want to show of your discord server use this git clone thes repository!
 
-https://gyazo.com/372ec836933d0ebdde1ccb12e369f1fd
+[Discordserverad](https://user-images.githubusercontent.com/69129533/116581203-15fe6180-a8e2-11eb-8e33-0961122f1402.PNG)
